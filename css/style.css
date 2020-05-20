@@ -30,6 +30,19 @@ section > div{
   text-align: center;
 }
 
+.img-standard{
+  width: 300px;
+  border-radius: 30px;
+}
+
+.logo{
+  width: 30px;
+}
+
+#developer{
+  text-align: center;
+}
+
 h1, h2{
   font-family: fantasy;
 }
