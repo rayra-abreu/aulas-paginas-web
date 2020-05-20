@@ -10,6 +10,30 @@ html{
 }
 
 body{
-  background-color: #FFF;
+  margin: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   font-family: "Century Gothic", sans-serif;
+  background-color: #FFF;
+}
+
+header{
+  margin-top: 4rem;
+}
+
+section{
+  padding: 2rem;
+}
+
+section > div{
+  text-align: center;
+}
+
+h1, h2{
+  font-family: fantasy;
+}
+
+h1{
+  color: #F00;
 }
