@@ -7,6 +7,18 @@ html{
 }
 
 #quemSomos{
+  height: 82vh;
   background-color: #8181F7;
   padding: 2rem;
+}
+
+#logo{
+  width: 50%;
+  height: auto;
+}
+
+#time{
+  margin: 1rem;
+  width: 400px;
+  height: 400px;
 }
