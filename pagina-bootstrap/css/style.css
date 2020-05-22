@@ -2,18 +2,27 @@ html{
   font-size: 16px;
 }
 
+body{
+  background-color: #8181F7;
+}
+
 img{
   margin: 1rem;
 }
 
-.navbar{
+footer{
+  color: #FFF;
+  padding-top: 1.25rem;
+  padding-bottom: 0.5rem;
+}
+
+footer, .navbar{
   background-color: #141414f3;
 }
 
 #quemSomos{
   height: 82vh;
   padding: 2rem;
-  background-color: #8181F7;
 }
 
 #logo{
@@ -30,10 +39,20 @@ img{
 #parceiros{
   padding: 2rem;
   color: #FFF;
-  background-color: #f81d3aee;
+  background-color: #f72743ee;
 }
 
 .empresa{
   max-width: 80%;
   height: auto;
+}
+
+#servicos{
+  padding-top: 2rem;
+  padding-bottom: 8rem;
+}
+
+.servico{
+  width: 80%;
+  height: 80%;
 }
